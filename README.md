@@ -1,7 +1,6 @@
 ### Olaaa, eu sou a Ana Caroline 👋
 
 - 😊 HTML, CSS, Bootstrap, Javascript 
-- 🌱 Atualmente estou aprendendo ReactJS
 - 😉 Básico de PHP, C, Java, Python e SQL
 - 🤓 Cursando Desenvolvimento Web - UNOPAR
 - 👩‍🎓 Formada em Análise e Desenvolvimento de Sistemas - FATEC Ourinhos
