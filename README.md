@@ -1,7 +1,7 @@
 ### Olaaa, eu sou a Ana Caroline 👋
 
-- 😊 HTML, CSS, Bootstrap, Javascript 
-- 😉 Básico de PHP, C, Java, Python e SQL
+- 😊 HTML, CSS, Bootstrap, JavaScript, SQL e Python 
+- 😉 Básico de PHP, C, Java
 - 🤓 Cursando Desenvolvimento Web - UNOPAR
 - 👩‍🎓 Formada em Análise e Desenvolvimento de Sistemas - FATEC Ourinhos
 
@@ -16,6 +16,7 @@
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ana-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Ana-pic" height="180" style="border-radius:50px;" src="https://img.freepik.com/psd-gratuitas/personagem-feminina-3d-trabalhando-em-um-laptop-enquanto-esta-sentada-na-cadeira_23-2148938889.jpg?w=740&t=st=1658440391~exp=1658440991~hmac=bb93a5752aba2b6edb9c8bc0723c1da45cddc774eb90dd04274753de22d0be6c">
 </div>
   
