@@ -1,8 +1,6 @@
 ### Olaaa, eu sou a Ana Caroline 👋
 
-- 😊 HTML, CSS, Bootstrap, JavaScript, SQL e Python 
-- 😉 Básico de PHP, C, Java
-- 🤓 Cursando Desenvolvimento Web - UNOPAR
+- 😊 Experiência com Protheus/ADVPL, Javascript, HTML, Bootstrap, CSS, Nodejs, SQL, APIs e integrações entre Front-end e Back-end, teste de software.
 - 👩‍🎓 Formada em Análise e Desenvolvimento de Sistemas - FATEC Ourinhos
 
 
