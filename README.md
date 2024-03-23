@@ -12,8 +12,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ana-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Ana-Bootstrap" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ana-Nodejs" height="30" width="30" src="https://cdn-icons-png.flaticon.com/256/5968/5968322.png">
   <img align="center" alt="Ana-Advpl" height="30" width="40" src="https://www.svgrepo.com/show/373420/advpl.svg">
   <img align="right" alt="Ana-pic" height="180" style="border-radius:50px;" src="https://img.freepik.com/psd-gratuitas/personagem-feminina-3d-trabalhando-em-um-laptop-enquanto-esta-sentada-na-cadeira_23-2148938889.jpg?w=740&t=st=1658440391~exp=1658440991~hmac=bb93a5752aba2b6edb9c8bc0723c1da45cddc774eb90dd04274753de22d0be6c">
 </div>
